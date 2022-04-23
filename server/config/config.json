@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "remote",
+    "password": "@remoteHost123",
+    "database": "store_db",
+    "host": "ec2-44-203-139-117.compute-1.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "remote",
+    "password": "@remoteHost123",
+    "database": "store_db",
+    "host": "ec2-44-203-139-117.compute-1.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "remote",
+    "password": "@remoteHost123",
+    "database": "store_db",
+    "host": "ec2-44-203-139-117.compute-1.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
