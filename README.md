@@ -16,3 +16,4 @@
   
   ><img width="20" src="https://imgur.com/rzRlaDz.png" alt="Icon Image"> Executed the Project-Write Up and presentation for the finished product
 ------
+`ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs : Mahnoor Bokhari, Mayank Gohil, Keisuke Lester [Manager], Vamshi Ponnala, Austin Thrash`
